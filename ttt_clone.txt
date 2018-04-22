@@ -1,0 +1,7 @@
+"ttt_clone"
+{
+	"base"			"base"
+	"title"			"Trouble in Terrorist Town Clone"
+	"maps"			"^ttt_"
+	"menusystem"	"1"
+}
